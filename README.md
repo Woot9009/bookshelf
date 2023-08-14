@@ -38,7 +38,7 @@ ___
 
 ❔: 작성페이지에서 달력을 넘기면 저장이 안됨.(PostEditor컴포넌트에서 문제점을 찾아봤지만 논리상 문제 없음)
 
-❗: Home컴포넌트의 useEffect 조건문의 curDate.getMonth()를 0월과 11월로 수정.(현재월에서 지정날짜로)
+❗: Home컴포넌트의 useEffect 조건문의 curDate.getMonth()를 1월과 12월로 수정.(현재월에서 지정날짜로)
 
 <br/><br/>
 
