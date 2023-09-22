@@ -4,6 +4,8 @@
 <br/><br/>
 
 [Woot's Book Shelf(독후감앱) 바로가기](https://woot9009.github.io/bookshelf/)
+<br /><br />
+[코드 확인용 repository 바로가기](https://github.com/Woot9009/bookshelf_unbuild)
 
 - 독후감 기능의 웹앱입니다.
 - 독후감을 작성, 저장, 수정, 삭제 등이 가능합니다.
