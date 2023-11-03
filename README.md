@@ -12,6 +12,15 @@
 - 저장한 독후감의 장르별 분류 및 일자별 정렬을 통해 지난 독서기록을 되돌아 볼 수 있습니다.
 
 <br/><br/>
+###### 분류 및 정렬
+<img src="https://github.com/Woot9009/bookshelf/assets/128044785/c71bacd3-3a77-4797-abef-b59161c6c15c.png" width=50% height=auto/>
+
+<br/><br/>
+###### 작성, 저장, 수정, 삭제
+<img src="https://github.com/Woot9009/bookshelf/assets/128044785/c5aae8ae-05dc-4552-a185-be3e254511dd.png" width=50% height=auto/>
+
+
+<br/><br/>
 
 #### <만들며 어려웠던 점과 해결방법>
 <br/>
